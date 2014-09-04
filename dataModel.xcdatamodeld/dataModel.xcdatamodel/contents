@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="TopEight" syncable="YES">
+        <attribute name="trackName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TrackList" syncable="YES">
+        <attribute name="fftResult" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="trackName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trackPath" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TopEight" positionX="45" positionY="27" width="128" height="60"/>
+        <element name="TrackList" positionX="-45" positionY="9" width="128" height="88"/>
+    </elements>
+</model>

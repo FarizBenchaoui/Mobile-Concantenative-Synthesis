@@ -1,18 +1,18 @@
 //
-//  ConcatSynth1_1Tests.m
-//  ConcatSynth1.1Tests
+//  CSFBSamplerUnitTests.m
+//  ConcatSynth1.1
 //
-//  Created by Fariz Benchaoui on 20/07/2014.
+//  Created by Fariz Benchaoui on 25/08/2014.
 //  Copyright (c) 2014 FarizBenchaoui. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface ConcatSynth1_1Tests : XCTestCase
+@interface CSFBSamplerUnitTests : XCTestCase
 
 @end
 
-@implementation ConcatSynth1_1Tests
+@implementation CSFBSamplerUnitTests
 
 - (void)setUp
 {
